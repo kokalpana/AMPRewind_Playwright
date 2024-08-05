@@ -1,0 +1,13 @@
+{
+  "name": "amprewind_playwright",
+  "version": "1.0.0",
+  "description": "AMP Rewind program demo project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kalpana Kondapalli",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.1.0"
+  }
+}
